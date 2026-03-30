@@ -36,7 +36,6 @@ correlations. Changes are stationary and capture genuine co-movement.
 ---
 
 ## Key Findings
-## Key Findings
 
 **Correlation structure**
 - Austria show the strongest correlation with Germany —
